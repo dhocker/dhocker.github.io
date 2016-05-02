@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2016-05-02 16:00:00 -0500
+category: posts
+---
+Welcome to GrumpyDave's (aka dhocker or Dave Hocker) GitHub web site. Here you will find
+musings about the various GitHub housed projects that I've worked on.
+
+- Posts about research topics and projects
+- Notes about the GitHub repos under my account
+
+My projects tend to involve hardware of some kind of software to make the hardware
+do something useful. For example, you will find two projects that together form an X10 home control
+system: [athomepowerlineserver](https://github.com/dhocker/athomepowerlineserver) 
+and [ahps_web](https://github.com/dhocker/ahps_web). 
+
+Continuing in that vain, I am currently working on a DMX based lighting project. This involves
+a DMX lighting controller and software to drive the controller with lighting scripts.
+The driving force for this project is the desire to have a year-end holiday
+light show in my front yard.
+
+I particularly enjoy working with the Raspberry Pi (RPi). As a result a number of my projects
+are deployed on RPi's (e.g. the X10 system).
+
+My development language of choice is Python. This mostly comes from the RPi influence. However,
+I have worked with a fair number of languages during my professional years. So, languages 
+like C/C++, C# and Ruby (to name a few) are not out of the question.
+
+I do most of my development on OS X and Raspbian Jessie. I occassionally use Ubuntu (just
+upgraded to 16.04) and Windows 10. I spent most of my professional career on Windows
+(and DOS before that and VM/370 and MVS before that).
+
+Finally, this web site was constructed using Jekyll. It was a non-trivial project all by itself and is
+probably worth a post or two.
