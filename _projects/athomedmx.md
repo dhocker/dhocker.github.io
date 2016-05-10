@@ -1,10 +1,9 @@
 ---
 layout: project
-title: AtHomeX10 Home Automation System
-permalink: /github/athomex10/
+title: AtHomeDMX - DMX Lighting Control Server
 ---
 
-X10 Home Automation
+AtHomeDMX
 
 Jekyll also offers powerful support for code snippets:
 

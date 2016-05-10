@@ -1,7 +1,7 @@
 ---
 layout: project
-title: AgentMPD
-permalink: /github/agentmpd/
+title: AgentMPD - Yet another MPD client
+permalink: /projects/agentmpd/
 ---
 
 AgentMPD

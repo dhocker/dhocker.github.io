@@ -18,3 +18,9 @@ github_username:  dhocker
 # Build settings
 markdown: kramdown
 exclude: [.vscode, .DS_Store]
+
+# Collections
+collections:
+  projects:
+    output: true
+    
