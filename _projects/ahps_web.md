@@ -1,9 +1,9 @@
 ---
 layout: project
-title: AgentMPD - Yet another MPD client
+title: ahps_web - Web app for managing AtHomePowerlineServer
 ---
 
-AgentMPD
+ahps_web
 
 Jekyll also offers powerful support for code snippets:
 

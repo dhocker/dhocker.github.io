@@ -1,9 +1,9 @@
 ---
 layout: project
-title: AgentMPD - Yet another MPD client
+title: udmx-pyusb - Programming the Anyma uDMX
 ---
 
-AgentMPD
+udmx-pyusb
 
 Jekyll also offers powerful support for code snippets:
 
