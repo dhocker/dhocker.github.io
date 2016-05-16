@@ -1,22 +1,17 @@
 ---
 layout: project
-title: AgentMPD - Yet another MPD client
+title: AgentMPD - Yet Another MPD Client
 ---
 
-AgentMPD
+AgentMPD is a web server based client app for the [mpd](http://www.musicpd.org) music server.
+It will also work with the [Mopidy](https://www.mopidy.com/) music server.
+It will allow you to control one running instance of mpd from any web browser (it has been tested
+with Chrome, Firefox, Firefox Developer Edition and Brave).
 
-Jekyll also offers powerful support for code snippets:
+AgentMPD was written in Python/Flask to run on a light weight system (e.g. a Raspberry Pi).
+While the server app was designed to run on a lightweight system, it will run on any system that
+supports Python 2.7 (including Windows) and the Flask framework. The mpd music server can be running
+anywhere as long as you can get to it via a TCP/IP connection.
 
-{% highlight python %}
-def print_hi(name):
-  print "Hi, {0}".format(name)
+AgentMPD is open source. Anyone can fork it and build upon it.
 
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
