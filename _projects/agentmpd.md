@@ -3,6 +3,8 @@ layout: project
 title: AgentMPD - Yet Another MPD Client
 ---
 
+Repo: [https://github.com/dhocker/agentmpd](https://github.com/dhocker/agentmpd)
+
 AgentMPD is a web server based client app for the [mpd](http://www.musicpd.org) music server.
 It will also work with the [Mopidy](https://www.mopidy.com/) music server.
 It will allow you to control one running instance of mpd from any web browser (it has been tested
