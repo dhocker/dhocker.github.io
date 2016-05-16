@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Welcome!"
+title:  "Yes, I'll have some Pi!"
 date:   2016-05-02 16:00:00 -0500
 category: posts
 ---
 Welcome to my GitHub web site. Here you will find
 musings about the various GitHub housed projects that I've worked on.
 
-- Posts about research topics and projects
 - Notes about the GitHub repos under my account
+- Posts about research topics and projects
 
 My projects tend to involve hardware of some kind of software to make the hardware
 do something useful. For example, you will find two projects that together form an X10 home control

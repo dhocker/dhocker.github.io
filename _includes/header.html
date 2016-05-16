@@ -4,7 +4,7 @@
 
     <div class="site-title">
       <img style="vertical-align: top;" src="{{ "/static/avatar.png" | prepend: site.baseurl }}">
-      <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+      <a href="https://github.com/dhocker">{{ site.title }}</a>
     </div>
 
     <nav class="site-nav">
@@ -17,6 +17,7 @@
       </a>
 
       <div class="trigger">
+        <a class="page-link" href="{{ site.baseurl }}/">Home</a>
         {% for my_page in site.pages %}
           <!-- This is a little bit of a hack to keep project pages out of the menu -->
           {% if my_page.title and my_page.layout != "project" %}
