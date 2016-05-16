@@ -102,7 +102,9 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    /*padding: $spacing-unit 0;*/
+    padding: -webkit-calc(#{$spacing-unit} / 2) $spacing-unit $spacing-unit $spacing-unit;
+    padding: calc(#{$spacing-unit} / 2) $spacing-unit $spacing-unit $spacing-unit;
 }
 
 .footer-heading {
@@ -171,7 +173,9 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    /*padding: $spacing-unit 0;*/
+    padding: $spacing-unit $spacing-unit -webkit-calc(#{$spacing-unit} / 2) $spacing-unit;
+    padding: $spacing-unit $spacing-unit calc(#{$spacing-unit} / 2) $spacing-unit;
 }
 
 .page-heading {
