@@ -12,6 +12,7 @@
 }
 
 .site-title {
+    font-family: $heading-font-family;
     font-size: 26px;
     font-weight: 300;
     line-height: 56px;
@@ -38,6 +39,7 @@
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
+        font-family: $heading-font-family;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
@@ -101,6 +103,7 @@
  * Site footer
  */
 .site-footer {
+    font-family: $heading-font-family;
     border-top: 1px solid $grey-color-light;
     /*padding: $spacing-unit 0;*/
     padding: -webkit-calc(#{$spacing-unit} / 2) $spacing-unit $spacing-unit $spacing-unit;
@@ -179,6 +182,7 @@
 }
 
 .page-heading {
+    font: $heading-font-family;
     font-size: 24px;
 }
 
@@ -211,6 +215,7 @@
 }
 
 .post-title {
+    font: $heading-font-family;
     font-size: 26px;
     letter-spacing: -1px;
     line-height: 1;
@@ -224,25 +229,31 @@
     margin-bottom: $spacing-unit;
 
     h2 {
+        font: $heading-font-family;
         font-size: 32px;
 
         @include media-query($on-laptop) {
+            font: $heading-font-family;
             font-size: 28px;
         }
     }
 
     h3 {
+        font: $heading-font-family;
         font-size: 26px;
 
         @include media-query($on-laptop) {
+            font: $heading-font-family;
             font-size: 22px;
         }
     }
 
     h4 {
+        font: $heading-font-family;
         font-size: 20px;
 
         @include media-query($on-laptop) {
+            font: $heading-font-family;
             font-size: 18px;
         }
     }
