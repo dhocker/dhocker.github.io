@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Susannas-library-frb: Book library tracking app
+title: Susannas-library-frb - Book library tracking app
 ---
 
 Repo: [https://github.com/dhocker/susannas-library-frb.git](https://github.com/dhocker/susannas-library-frb.git)
